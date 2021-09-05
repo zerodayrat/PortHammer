@@ -23,6 +23,6 @@ tool_banner = '''
 def print_banner():
     print(f"{GREEN}{tool_banner}{RESET}")
     print(f"{RED}v1.0{RESET}")
-    print(f"{YELLOW}Author - Saeed{RESET}")
+    print(f"{YELLOW}Author: Saeed{RESET}")
     print(f"{CYAN}Github: www.github.com/zerodayrat{RESET}")
 
