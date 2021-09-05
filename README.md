@@ -12,12 +12,12 @@ cd PortHammer
 ````
 
 ````bash
-python3 porthammer.py -p1 <starting port> -p2 <ending port> -t <target ip address>
+python3 PortHammer.py -p1 <starting port> -p2 <ending port> -t <target ip address>
 ````  
 
 # Help Menu
 
-usage: `porthammer.py [-h] -p1 PORT1 -p2 PORT2 -t TARGET`
+usage: `PortHammer.py [-h] -p1 PORT1 -p2 PORT2 -t TARGET`
 
 ````text
 optional arguments:
@@ -32,12 +32,12 @@ optional arguments:
 To scan first 1000 ports of ip address 192.168.42.20 :
   
 ````bash
-python3 porthammer.py -p1 1 -p2 1000 -t 192.168.42.20 
+python3 PortHammer.py -p1 1 -p2 1000 -t 192.168.42.20 
 ````
 
 To scan from port 50 to 100 
 
 ````bash
-python3 porthammer.py -p1 50 -p2 100 -t 192.168.42.20
+python3 PortHammer.py -p1 50 -p2 100 -t 192.168.42.20
 
 ````
