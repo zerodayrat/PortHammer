@@ -1,5 +1,5 @@
 # PortHammer
-A simple port scanning tool written in python3. This tool is made for beginners and it's really easy to use.
+A port scanning tool written in python3. This tool is made for beginners and it's really easy to use.
 
 # Installation
 
