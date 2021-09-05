@@ -17,14 +17,15 @@ python3 porthammer.py -p1 <starting port> -p2 <ending port> -t <target ip addres
 
 # Help Menu
 
-usage: porthammer.py [-h] -p1 PORT1 -p2 PORT2 -t TARGET
+usage: `porthammer.py [-h] -p1 PORT1 -p2 PORT2 -t TARGET`
 
+````text
 optional arguments:
   -h, --help                     show this help message and exit
   -p1 PORT1, --port1 PORT1       Enter starting Port
   -p2 PORT2, --port2 PORT2       Enter Ending Port
   -t TARGET, --target TARGET     Enter Target IP
-
+````
 
 # Example
 
